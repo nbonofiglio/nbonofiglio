@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+<p align="left">
+  <img src="https://api.boot.dev/v1/users/public/77503892-4c2f-4344-afa5-d53432bc7cbe/thumbnail" >
+</p>
 <!--
 **nbonofiglio/nbonofiglio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
